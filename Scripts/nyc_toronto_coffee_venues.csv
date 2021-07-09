@@ -1,0 +1,39 @@
+S.No,City,Neighborhood,1st Most Common Venue,2nd Most Common Venue,Cluster Labels,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+1,Newyork,Cobble Hill (Brooklyn),Coffee Shop,Cocktail Bar,2,Playground,Yoga Studio,Italian Restaurant,Bakery,Bar,Pizza Place,Deli / Bodega,French Restaurant
+2,Newyork,Park Slope (Brooklyn),Coffee Shop,Pizza Place,2,Burger Joint,Italian Restaurant,Bagel Shop,Japanese Restaurant,Bookstore,Spa,Pub,Bakery
+3,Newyork,North Side (Brooklyn),Coffee Shop,Pizza Place,2,Yoga Studio,Bakery,Wine Bar,Jewelry Store,American Restaurant,Vegetarian / Vegan Restaurant,Cocktail Bar,Bookstore
+4,Newyork,Manhattanville (Manhattan),Coffee Shop,Deli / Bodega,2,Italian Restaurant,Bar,Chinese Restaurant,Liquor Store,Mexican Restaurant,Seafood Restaurant,Sushi Restaurant,Gastropub
+5,Newyork,Roosevelt Island (Manhattan),Coffee Shop,Park,2,Residential Building (Apartment / Condo),Supermarket,Gym / Fitness Center,Gym,Athletics & Sports,Metro Station,Greek Restaurant,Farmers Market
+6,Newyork,Murray Hill (Manhattan),Coffee Shop,Hotel,2,Sandwich Place,Japanese Restaurant,American Restaurant,Bar,Pizza Place,Sushi Restaurant,Taco Place,Gym / Fitness Center
+7,Newyork,Manhattan Valley (Manhattan),Coffee Shop,Bar,2,Mexican Restaurant,Thai Restaurant,Playground,Pizza Place,Indian Restaurant,Vietnamese Restaurant,Yoga Studio,Farmers Market
+8,Newyork,Morningside Heights (Manhattan),Coffee Shop,Bookstore,2,American Restaurant,Park,Café,Deli / Bodega,Sandwich Place,Burger Joint,Mexican Restaurant,Grocery Store
+9,Newyork,Financial District (Manhattan),Coffee Shop,Pizza Place,2,American Restaurant,Italian Restaurant,Gym / Fitness Center,Cocktail Bar,Falafel Restaurant,Hotel,Donut Shop,Gourmet Shop
+10,Newyork,West Brighton (Staten Island),Coffee Shop,Italian Restaurant,2,Bank,Bar,Music Store,Breakfast Spot,Fast Food Restaurant,Smoke Shop,Bus Stop,Board Shop
+11,Newyork,Sunnyside (Staten Island),Coffee Shop,Spa,2,Market,Gym,American Restaurant,Grocery Store,Filipino Restaurant,Field,Flower Shop,Dry Cleaner
+12,Newyork,Carnegie Hill (Manhattan),Coffee Shop,Café,2,Wine Shop,Yoga Studio,Pizza Place,Bookstore,Gym / Fitness Center,Bar,Cosmetics Shop,Shipping Store
+13,Newyork,Civic Center (Manhattan),Coffee Shop,Gym / Fitness Center,2,Spa,Cocktail Bar,French Restaurant,American Restaurant,Yoga Studio,Hotel,Italian Restaurant,Park
+14,Toronto,Studio District (East Toronto),Coffee Shop,American Restaurant,2,Gastropub,Brewery,Café,Bakery,Pet Store,Stationery Store,Thai Restaurant,Bank
+15,Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park (Central Toronto)",Coffee Shop,Supermarket,2,Bank,Light Rail Station,Restaurant,Sushi Restaurant,American Restaurant,Pizza Place,Vietnamese Restaurant,Liquor Store
+16,Toronto,"St. James Town, Cabbagetown (Downtown Toronto)",Coffee Shop,Pizza Place,2,Café,Pub,Italian Restaurant,Restaurant,Bakery,Chinese Restaurant,Grocery Store,General Entertainment
+17,Toronto,Church and Wellesley (Downtown Toronto),Coffee Shop,Japanese Restaurant,2,Sushi Restaurant,Gay Bar,Restaurant,Fast Food Restaurant,Bubble Tea Shop,Café,Men's Store,Mediterranean Restaurant
+18,Toronto,"Regent Park, Harbourfront (Downtown Toronto)",Coffee Shop,Bakery,2,Park,Café,Pub,Breakfast Spot,Theater,Restaurant,Bank,Spa
+19,Toronto,"Garden District, Ryerson (Downtown Toronto)",Coffee Shop,Clothing Store,2,Sandwich Place,Café,Cosmetics Shop,Italian Restaurant,Japanese Restaurant,Hotel,Middle Eastern Restaurant,Bookstore
+20,Toronto,Central Bay Street (Downtown Toronto),Coffee Shop,Sandwich Place,2,Italian Restaurant,Café,Restaurant,Bubble Tea Shop,Salad Place,Japanese Restaurant,Burger Joint,Ice Cream Shop
+21,Toronto,"Richmond, Adelaide, King (Downtown Toronto)",Coffee Shop,Café,2,Thai Restaurant,Restaurant,Gym,Clothing Store,Hotel,Deli / Bodega,Steakhouse,Concert Hall
+22,Toronto,"Harbourfront East, Union Station, Toronto Islands (Downtown Toronto)",Coffee Shop,Café,2,Aquarium,Scenic Lookout,Restaurant,Hotel,Pizza Place,Brewery,Steakhouse,Gym
+23,Toronto,"Toronto Dominion Centre, Design Exchange (Downtown Toronto)",Coffee Shop,Hotel,2,Café,Restaurant,Japanese Restaurant,Bakery,Breakfast Spot,Steakhouse,Asian Restaurant,Deli / Bodega
+24,Toronto,"Commerce Court, Victoria Hotel (Downtown Toronto)",Coffee Shop,Café,2,Hotel,Restaurant,Cocktail Bar,Japanese Restaurant,Italian Restaurant,Gym,Asian Restaurant,Deli / Bodega
+25,Toronto,Enclave of M5E (Downtown Toronto Stn A),Coffee Shop,Italian Restaurant,2,Pub,Seafood Restaurant,Beer Bar,Japanese Restaurant,Cocktail Bar,Café,Bakery,Restaurant
+26,Toronto,"First Canadian Place, Underground city (Downtown Toronto)",Coffee Shop,Café,2,Gym,Hotel,Japanese Restaurant,Deli / Bodega,Sushi Restaurant,Restaurant,Asian Restaurant,American Restaurant
+27,Toronto,"Runnymede, Swansea (West Toronto)",Coffee Shop,Café,2,Italian Restaurant,Pub,Sushi Restaurant,Burrito Place,Gourmet Shop,Bank,Bar,French Restaurant
+28,Newyork,Manhattan Beach (Brooklyn),Café,Beach,2,Food,Ice Cream Shop,Harbor / Marina,Sandwich Place,Playground,Bus Stop,Yemeni Restaurant,Eastern European Restaurant
+29,Newyork,Prospect Lefferts Gardens (Brooklyn),Café,Caribbean Restaurant,2,Bakery,Coffee Shop,Pizza Place,Pharmacy,Deli / Bodega,Supermarket,Indian Restaurant,Liquor Store
+30,Newyork,Washington Heights (Manhattan),Café,Bakery,2,Bank,Spanish Restaurant,Mobile Phone Shop,Tapas Restaurant,New American Restaurant,Women's Store,Supplement Shop,Pizza Place
+31,Newyork,Hunters Point (Queens),Café,Italian Restaurant,2,Japanese Restaurant,Coffee Shop,American Restaurant,Gym / Fitness Center,Wine Shop,Wine Bar,Brewery,Bar
+32,Newyork,Lighthouse Hill (Staten Island),Café,Trail,2,Italian Restaurant,Spa,Art Museum,Yemeni Restaurant,Event Space,Dumpling Restaurant,Eastern European Restaurant,Electronics Store
+33,Toronto,St. James Town (Downtown Toronto),Café,Coffee Shop,2,Beer Bar,Restaurant,Cocktail Bar,Moroccan Restaurant,Bakery,Seafood Restaurant,Cosmetics Shop,Creperie
+34,Toronto,"The Annex, North Midtown, Yorkville (Central Toronto)",Café,Sandwich Place,2,Coffee Shop,Indian Restaurant,Pizza Place,Burger Joint,Middle Eastern Restaurant,Liquor Store,BBQ Joint,Park
+35,Toronto,"University of Toronto, Harbord (Downtown Toronto)",Café,Bakery,2,Japanese Restaurant,Bar,Bookstore,Restaurant,Bank,Beer Bar,Beer Store,Sushi Restaurant
+36,Toronto,"Kensington Market, Chinatown, Grange Park (Downtown Toronto)",Café,Bar,2,Bakery,Coffee Shop,Arts & Crafts Store,Vietnamese Restaurant,Vegetarian / Vegan Restaurant,Park,Mexican Restaurant,Burger Joint
+37,Toronto,"Brockton, Parkdale Village, Exhibition Place (West Toronto)",Café,Breakfast Spot,2,Coffee Shop,Restaurant,Stadium,Nightclub,Burrito Place,Furniture / Home Store,Bar,Bakery
+38,Toronto,"High Park, The Junction South (West Toronto)",Café,Thai Restaurant,2,Mexican Restaurant,Speakeasy,Antique Shop,Cajun / Creole Restaurant,Arts & Crafts Store,Park,Bar,Restaurant
